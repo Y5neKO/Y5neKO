@@ -11,7 +11,7 @@
 
 ### ⚡Label
 
-`CTFer`  `Anime`  `Student`  `Code`  `PHP`  `Penetration`  `Nood`
+`CTFer`  `Student`  `Code`  `PHP`  `Penetration`  `Anime`  `Music`
 
 ---
 
@@ -29,3 +29,8 @@
 - [Webshell-Collection](https://github.com/Y5neKO/Webshell-Collection):  Y5neKO的webshell收集项目.
 - [Y5-tools](https://github.com/Y5neKO/Y5-tools):  一个在线工具箱（开发中）.
 - [huluxia_auto_comment](https://github.com/Y5neKO/huluxia_auto_comment):  葫芦侠自动刷评论.
+
+**🔎Find Me**
+- QQ: 1727058834 / BiliBili: Y5neKO
+- CloudMusic: Y5neKO_official / NationalKaraoke: Y5neKO
+- Twitter:Y5neKO / Facebook: MinatzukiSakuya
