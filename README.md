@@ -29,6 +29,7 @@
 - [Webshell-Collection](https://github.com/Y5neKO/Webshell-Collection):  Y5neKO的webshell收集项目.
 - [Y5-tools](https://github.com/Y5neKO/Y5-tools):  一个在线工具箱（开发中）.
 - [huluxia_auto_comment](https://github.com/Y5neKO/huluxia_auto_comment):  葫芦侠自动刷评论.
+- [EXP&POC_Collection](https://github.com/Y5neKO/ExpAndPoc_Colection):  Y5neKO的EXP&POC收集项目.
 
 **🔎Find Me**
 - QQ: 1727058834 / BiliBili: Y5neKO
