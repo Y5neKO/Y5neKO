@@ -1,4 +1,4 @@
-### 📝An Information Security NOOB！ 
+### 📝An Information Security Rookie！ 
 
 **I'm Y5neKO.**
 
