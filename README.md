@@ -1,4 +1,4 @@
-### 📝An Information Security Rookie！ 
+### 📝An Cyber Security Rookie！ 
 
 **I'm Y5neKO.**
 
@@ -8,15 +8,15 @@
 
 ![Y5neKO's stars](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Y5neKO&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y5neKO)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y5neKO)](https://github.com/Y5neKO)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Y5neKO&repo=ArknightsPriestess)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Y5neKO&repo=ArknightsPriestess)](https://github.com/Y5neKO/ArknightsPriestess)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Y5neKO&repo=qq_xml_ip)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Y5neKO&repo=qq_xml_ip)](https://github.com/Y5neKO/qq_xml_ip)
 
 ### ⚡Label
 
-`CTFer`  `Student`  `Code`  `PHP`  `Penetration`  `Anime`  `Music`
+`CTFer`  `Student`  `Code`  `PHP`  `Penetration`  `Anime`  `Music`  `Python`  `Java`
 
 ---
 
@@ -25,8 +25,6 @@
 - [Y5neKO's Online Tools](https://tool.ysneko.com): Online tools(building...).
 - [Y5neKO's Notes](https://note.ysneko.com): Study note log website.
 - [XSS Platform](https://xss.ysneko.com/): XSS online platform.
-- [Bilibili Online Tools](https://bilibili.ysneko.com): Bilibili tools.
-- [IP Radar](https://ip.ysneko.com): Online IP radar system.
 
 **📚My Project:**
 - [Bilibili-Api](https://github.com/Y5neKO/Bilibili-Api):  Bilibili进行个人数据统计.
@@ -38,5 +36,5 @@
 
 **🔎Find Me**
 - QQ: 1727058834 / BiliBili: Y5neKO
-- CloudMusic: Y5neKO_official / NationalKaraoke: Y5neKO
-- Twitter:Y5neKO / Facebook: MinatzukiSakuya
+- CloudMusic: Y5neKO_official / TikTok: Y5neKO
+- Twitter:Y5neKO
