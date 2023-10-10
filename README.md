@@ -1,4 +1,4 @@
-### 📝An Cyber Security Rookie！ 
+### 📝An Cyber Security Rookie!
 
 **I'm Y5neKO.**
 
