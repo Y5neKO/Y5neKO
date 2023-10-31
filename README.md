@@ -21,6 +21,7 @@
 
 **📚My Project:**
 - [qq-xml-ip](https://github.com/Y5neKO/qq-xml-ip):  QQ automatically detects target IP through xml card.
+- [ClosureVulnScanner](https://github.com/Y5neKO/ClosureVulnScanner):  A Python-based comprehensive vulnerability scanner for the web.
 - [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
 - [Mon3trProject](https://github.com/Y5neKO/Mon3trProject):  Communication traffic encryption Webshell client.
 - [Y5-tools](https://github.com/Y5neKO/Y5-tools):  An online toolbox.
