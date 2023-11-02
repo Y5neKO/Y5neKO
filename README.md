@@ -27,6 +27,13 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
 
+## 🔭 Experience
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/71768442?s=200&v=4"/>](#)
+**Pygmy Killer Whale Security Team** \
+**Member** • Full-time \
+Linguagens & Tecnologias: `Python`, `Java`, `Penetration`, `CTF`\
+Belonging to the NSU Information Security Laboratory
+
 ---
 
 **🌐 My Site:** 
@@ -47,12 +54,3 @@
 - QQ: 1727058834 / BiliBili: Y5neKO
 - CloudMusic: Y5neKO_official / TikTok: Y5neKO
 - Twitter:Y5neKO
-
----
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/71768442?s=200&v=4"/>](#)
-
-**Pygmy Killer Whale Security Team** \
-**Member** • Full-time \
-Linguagens & Tecnologias: `Python`, `Java`, `Penetration`, `CTF`\
-Belonging to the NSU Information Security Laboratory
