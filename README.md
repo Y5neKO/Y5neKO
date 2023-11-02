@@ -6,7 +6,11 @@
 [![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1280?logoColor=dark%26project=%26recentMS=0%26showProject=true)]()
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY5neKO%2FY5neKO&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)]()
 
-![Y5neKO's stars](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Y5neKO&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight)
+<!-- ![Y5neKO's stars](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Y5neKO&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight) -->
+<div>
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=Y5neKO&hide_title=true&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
+<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Y5neKO&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&bg_color=30,c64dff,66ccff&theme=dark" />
+</div>
 
 ### ⚡Label
 
@@ -34,5 +38,3 @@
 - Twitter:Y5neKO
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y5neKO)](https://github.com/Y5neKO)
