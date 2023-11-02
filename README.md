@@ -1,6 +1,8 @@
-### 📝A Cyber Security Rookie!
+## 👋 Hi, I'm Y5neKO.
 
-**I'm Y5neKO.**
+**A Cyber Security Rookie!**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y5neko&" alt="y5neko" /></p>
 
 [![Github](https://img.shields.io/github/followers/Y5neKO?label=Follow&style=social)](https://github.com/Y5neKO)
 [![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1280?logoColor=dark%26project=%26recentMS=0%26showProject=true)]()
@@ -12,18 +14,27 @@
 <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Y5neKO&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&bg_color=30,c64dff,66ccff&theme=dark" />
 </div>
 
-### ⚡Label
+## ⚡ Label
 
 `CTFer`  `Student`  `Code`  `PHP`  `Penetration`  `Anime`  `Music`  `Python`  `Java`
 
+## 🚀 Skills
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+
 ---
 
-**🌐My Site:** 
+**🌐 My Site:** 
 - [Y5neKO's Blog](https://blog.ysneko.com/): Personal blog.
 - [Y5neKO's Online Tools](https://tool.ysneko.com): Online Website Toolbox.
 - [Y5neKO's Notes](https://note.ysneko.com): Study note recording.
 
-**📚My Project:**
+**📚 My Project:**
 - [qq-xml-ip](https://github.com/Y5neKO/qq-xml-ip):  QQ automatically detects target IP through xml card.
 - [ClosureVulnScanner](https://github.com/Y5neKO/ClosureVulnScanner):  A Python-based comprehensive vulnerability scanner for the web.
 - [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
@@ -32,9 +43,16 @@
 - [Webshell-Collection](https://github.com/Y5neKO/Webshell-Collection):  Personal webshell collection project.
 - [EXP&POC_Collection](https://github.com/Y5neKO/ExpAndPoc_Colection):  Personal EXP&POC collection project.
 
-**🔎Find Me**
+**🔎 Find Me**
 - QQ: 1727058834 / BiliBili: Y5neKO
 - CloudMusic: Y5neKO_official / TikTok: Y5neKO
 - Twitter:Y5neKO
 
 ---
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/71768442?s=200&v=4"/>](#)
+
+**Pygmy Killer Whale Security Team** \
+**Member** • Full-time \
+Linguagens & Tecnologias: `Python`, `Java`, `Penetration`, `CTF`\
+Belonging to the NSU Information Security Laboratory
