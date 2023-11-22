@@ -34,6 +34,12 @@
 Linguagens & Tecnologias: `Python`, `Java`, `Penetration`, `CTF`\
 Belonging to the NSU Information Security Laboratory
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./img/AH.png"/>](#)
+**DBAPPSecurity** \
+**Security Service Engineer** • Full-time \
+Linguagens & Tecnologias: `Python`, `Java`, `Penetration` \
+Chengdu DBAPPSecurity Information Technology Co., Ltd
+
 ---
 
 **🌐 My Site:** 
