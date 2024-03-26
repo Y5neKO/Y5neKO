@@ -6,7 +6,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://s2.loli.net/2024/03/26/gQmf5ijPUKBo24C.jpg" alt="Priestess" width="320" /> 
 
 ```csharp
 y5neko@GitHub
@@ -26,7 +26,7 @@ Identity: Y5neKO/Y5n3K0 :)
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#c7cfe2" src="https://via.placeholder.com/15/c7cfe2/000000?text=+" width="25" height="20" /><img alt="#28202c" src="https://via.placeholder.com/15/28202c/000000?text=+" width="25" height="20" /><img alt="#47629b" src="https://via.placeholder.com/15/47629b/000000?text=+" width="25" height="20" /><img alt="#a0829e" src="https://via.placeholder.com/15/a0829e/000000?text=+" width="25" height="20" />
 </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y5neko&" alt="y5neko" /></p>
