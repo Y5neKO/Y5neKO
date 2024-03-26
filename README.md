@@ -11,7 +11,7 @@
 ```csharp
 Y5neKO@github
 -------------------------
-OS: Arch Linux x86_64
+OS: Ubuntu 20.04.6 LTS x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: China
@@ -20,7 +20,8 @@ Languages: Java, Python,
            C, PHP, MySQL
 Learning: Assembly, Reverse, PWN,
           CodeAudit, C++
-Hobbies: Anime, Novel, Gaming
+Hobbies: Anime, Novel, Gaming,
+         Music
 ID: Y5neKO/Y5n3K0
 ```
 <p align="left">
