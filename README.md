@@ -25,7 +25,7 @@ Hobbies: Anime, Novel, Music
 Identity: Y5neKO/Y5n3K0 :)
 ```
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#c7cfe2" src="https://via.placeholder.com/15/c7cfe2/000000?text=+" width="25" height="20" /><img alt="#28202c" src="https://via.placeholder.com/15/28202c/000000?text=+" width="25" height="20" /><img alt="#47629b" src="https://via.placeholder.com/15/47629b/000000?text=+" width="25" height="20" /><img alt="#a0829e" src="https://via.placeholder.com/15/a0829e/000000?text=+" width="25" height="20" />
 </p>
 <br>
