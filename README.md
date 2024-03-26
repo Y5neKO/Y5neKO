@@ -12,6 +12,7 @@
 Y5neKO@github
 -------------------------
 OS: Ubuntu 20.04.6 LTS x86_64
+Kernel: 5.4.0-26-generic
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: China
@@ -20,9 +21,8 @@ Languages: Java, Python,
            C, PHP, MySQL
 Learning: Assembly, Reverse, PWN,
           CodeAudit, C++
-Hobbies: Anime, Novel, Gaming,
-         Music
-ID: Y5neKO/Y5n3K0
+Hobbies: Anime, Novel, Music
+Identity: Y5neKO/Y5n3K0 :)
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
