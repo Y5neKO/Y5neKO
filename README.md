@@ -42,7 +42,7 @@ Identity: Y5neKO/Y5n3K0 :)
 
 ## ⚡ Label
 
-`CTFer`  `Student`  `Code`  `PHP`  `Penetration`  `Anime`  `Music`  `Python`  `Java`
+`CTFer`  `PHP`  `Penetration`  `Anime`  `Music`  `Python`  `Java`  `CodeAudit`
 
 ## 🚀 Skills
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/></code>
@@ -68,21 +68,23 @@ Chengdu DBAPPSecurity Information Technology Co., Ltd
 
 ---
 
-**🌐 My Site:** 
-- [Y5neKO's Blog](https://blog.ysneko.com/): Personal blog.
-- [Y5neKO's Online Tools](https://tool.ysneko.com): Online Website Toolbox.
-- [Y5neKO's Notes](https://note.ysneko.com): Study note recording.
+**🌐 My Website:** 
+- [Y5neKO's Blog](https://y5neko.github.io): Personal blog.
+- ~[Y5neKO's Blog](https://blog.ysneko.com/): Personal blog.~
+- ~[Y5neKO's Online Tools](https://tool.ysneko.com): Online Website Toolbox.~
+- ~[Y5neKO's Notes](https://note.ysneko.com): Study note recording.~
 
 **📚 My Project:**
 - [qq-xml-ip](https://github.com/Y5neKO/qq-xml-ip):  QQ automatically detects target IP through xml card.
+- [Y5_VulnHub](https://github.com/Y5neKO/Y5_VulnHub):  Personal vulnerability collection project, including reproduction environment, POC, EXP, etc.
+- [ShiroEXP](https://github.com/Y5neKO/ShiroEXP):  Shiro vulnerability exploitation tool.
 - [ClosureVulnScanner](https://github.com/Y5neKO/ClosureVulnScanner):  A Python-based comprehensive vulnerability scanner for the web.
-- [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
 - [Mon3trProject](https://github.com/Y5neKO/Mon3trProject):  Communication traffic encryption Webshell client.
-- [Y5-tools](https://github.com/Y5neKO/Y5-tools):  An online toolbox.
 - [Webshell-Collection](https://github.com/Y5neKO/Webshell-Collection):  Personal webshell collection project.
 - [EXP&POC_Collection](https://github.com/Y5neKO/ExpAndPoc_Colection):  Personal EXP&POC collection project.
+- [Y5-tools](https://github.com/Y5neKO/Y5-tools):  An online toolbox.
+- [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
 
-**🔎 Find Me**
-- QQ: 1727058834 / BiliBili: Y5neKO
-- CloudMusic: Y5neKO_official / TikTok: Y5neKO
-- Twitter:Y5neKO
+**☢ Vuln IDs**
+- CVE: CVE-2024-39071, CVE-2024-39072
+- CNVD: CNVD-2024-29955
