@@ -66,6 +66,12 @@ Belonging to the NSU Information Security Laboratory
 Linguagens & Tecnologias: `Python`, `Java`, `Penetration` \
 Chengdu DBAPPSecurity Information Technology Co., Ltd
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./img/da3aefed6873e2efedadb884fa9e9a21.jpeg"/>](#)
+**Unknown Security Company** \
+**Penetration Test Engineer** • Full-time \
+Linguagens & Tecnologias: `RedTeam`, `Penetration` \
+Unknown Security Company
+
 ---
 
 **🌐 My Website:** 
