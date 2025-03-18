@@ -29,7 +29,7 @@ Identity: Y5neKO/Y5n3K0 :)
   <img alt="#474342" src="https://singlecolorimage.com/get/474342/25x20" width="25" height="20" /><img alt="#c7cfe2" src="https://singlecolorimage.com/get/c7cfe2/25x20" width="25" height="20" /><img alt="#28202c" src="https://singlecolorimage.com/get/28202c/25x20" width="25" height="20" /><img alt="#47629b" src="https://singlecolorimage.com/get/47629b/25x20" width="25" height="20" /><img alt="#a0829e" src="https://singlecolorimage.com/get/a0829e/25x20" width="25" height="20" />
 </p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Y5neKO" alt="y5neko" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Y5neKO" alt="y5neko" /></p> -->
 <!-- ![Y5neKO's stars](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Y5neKO&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight) -->
 <div>
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Y5neKO&hide_title=true&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
