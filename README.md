@@ -26,10 +26,11 @@ Identity: Y5neKO/Y5n3K0 :)
 ```
 <p align="left">
   &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#c7cfe2" src="https://via.placeholder.com/15/c7cfe2/000000?text=+" width="25" height="20" /><img alt="#28202c" src="https://via.placeholder.com/15/28202c/000000?text=+" width="25" height="20" /><img alt="#47629b" src="https://via.placeholder.com/15/47629b/000000?text=+" width="25" height="20" /><img alt="#a0829e" src="https://via.placeholder.com/15/a0829e/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://singlecolorimage.com/get/474342/25x20" width="25" height="20" /><img alt="#c7cfe2" src="https://singlecolorimage.com/get/c7cfe2/25x20" width="25" height="20" /><img alt="#28202c" src="https://singlecolorimage.com/get/28202c/25x20" width="25" height="20" /><img alt="#47629b" src="https://singlecolorimage.com/get/47629b/25x20" width="25" height="20" /><img alt="#a0829e" src="https://singlecolorimage.com/get/a0829e/25x20" width="25" height="20" />
 </p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y5neko&" alt="y5neko" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Y5neKO" alt="y5neko" /></p>
+<!-- <p></p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Y5neKO" alt="GitHub Streak" /></a></p> -->
 
 <!-- ![Y5neKO's stars](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Y5neKO&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight) -->
 <div>
