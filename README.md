@@ -30,8 +30,6 @@ Identity: Y5neKO/Y5n3K0 :)
 </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Y5neKO" alt="y5neko" /></p>
-<!-- <p></p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Y5neKO" alt="GitHub Streak" /></a></p> -->
-
 <!-- ![Y5neKO's stars](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Y5neKO&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight) -->
 <div>
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Y5neKO&hide_title=true&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
