@@ -90,6 +90,8 @@ Unknown Security Company
 - [EXP&POC_Collection](https://github.com/Y5neKO/ExpAndPoc_Colection):  Personal EXP&POC collection project.
 - [Y5-tools](https://github.com/Y5neKO/Y5-tools):  An online toolbox.
 - [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
+- [YCryptoTools](https://github.com/Y5neKO/YCryptoTools): A front-end encryption and decryption BurpSuite plugin.
+- [SSRFxxk](https://github.com/Y5neKO/SSRFxxk): An SSRF fuzz testing plugin developed based on BurpSuite MontoyaAPI.
 
 **☢ Vuln IDs**
 - CVE: CVE-2024-39071, CVE-2024-39072
