@@ -92,6 +92,8 @@ Unknown Security Company
 - [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
 - [YCryptoTools](https://github.com/Y5neKO/YCryptoTools): A front-end encryption and decryption BurpSuite plugin.
 - [SSRFxxk](https://github.com/Y5neKO/SSRFxxk): An SSRF fuzz testing plugin developed based on BurpSuite MontoyaAPI.
+- [QuickRedTools](https://github.com/Y5neKO/QuickRedTools): Penetration Testing Quick Start Tool.
+- [SSReportTools](https://github.com/Y5neKO/SSReportTools): A graphical security/penetration testing report generation tool developed based on JavaFX, an essential tool for security and penetration testing enthusiasts looking to slack off.
 
 **☢ Vuln IDs**
 - CVE: CVE-2024-39071, CVE-2024-39072
