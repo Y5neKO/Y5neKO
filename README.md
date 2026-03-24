@@ -80,20 +80,22 @@ Unknown Security Company
 - ~[Y5neKO's Notes](https://note.ysneko.com): Study note recording.~
 
 **📚 My Project:**
-- [qq-xml-ip](https://github.com/Y5neKO/qq-xml-ip):  QQ automatically detects target IP through xml card.
-- [CryptoTool](https://github.com/Y5neKO/CryptoTool):  Integrated encryption and decryption tool.
-- [Y5_VulnHub](https://github.com/Y5neKO/Y5_VulnHub):  Personal vulnerability collection project, including reproduction environment, POC, EXP, etc.
-- [ShiroEXP](https://github.com/Y5neKO/ShiroEXP):  Shiro vulnerability exploitation tool.
-- [ClosureVulnScanner](https://github.com/Y5neKO/ClosureVulnScanner):  A Python-based comprehensive vulnerability scanner for the web.
-- [Mon3trProject](https://github.com/Y5neKO/Mon3trProject):  Communication traffic encryption Webshell client.
-- [Webshell-Collection](https://github.com/Y5neKO/Webshell-Collection):  Personal webshell collection project.
-- [EXP&POC_Collection](https://github.com/Y5neKO/ExpAndPoc_Colection):  Personal EXP&POC collection project.
-- [Y5-tools](https://github.com/Y5neKO/Y5-tools):  An online toolbox.
-- [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess):  Arknights open source Java automatic tool AKP.
+- [qq-xml-ip](https://github.com/Y5neKO/qq-xml-ip): QQ automatically detects target IP through xml card.
+- [CryptoTool](https://github.com/Y5neKO/CryptoTool): Integrated encryption and decryption tool.
+- [Y5_VulnHub](https://github.com/Y5neKO/Y5_VulnHub): Personal vulnerability collection project, including reproduction environment, POC, EXP, etc.
+- [ShiroEXP](https://github.com/Y5neKO/ShiroEXP): Shiro vulnerability exploitation tool.
+- [ClosureVulnScanner](https://github.com/Y5neKO/ClosureVulnScanner): A Python-based comprehensive vulnerability scanner for the web.
+- [Mon3trProject](https://github.com/Y5neKO/Mon3trProject): Communication traffic encryption Webshell client.
+- [Webshell-Collection](https://github.com/Y5neKO/Webshell-Collection): Personal webshell collection project.
+- [EXP&POC_Collection](https://github.com/Y5neKO/ExpAndPoc_Colection): Personal EXP&POC collection project.
+- [Y5-tools](https://github.com/Y5neKO/Y5-tools): An online toolbox.
+- [ArknightsPriestess](https://github.com/Y5neKO/ArknightsPriestess): Arknights open source Java automatic tool AKP.
 - [YCryptoTools](https://github.com/Y5neKO/YCryptoTools): A front-end encryption and decryption BurpSuite plugin.
 - [SSRFxxk](https://github.com/Y5neKO/SSRFxxk): An SSRF fuzz testing plugin developed based on BurpSuite MontoyaAPI.
 - [QuickRedTools](https://github.com/Y5neKO/QuickRedTools): Penetration Testing Quick Start Tool.
 - [SSReportTools](https://github.com/Y5neKO/SSReportTools): A graphical security/penetration testing report generation tool developed based on JavaFX, an essential tool for security and penetration testing enthusiasts looking to slack off.
+- [SourcemapTools](https://github.com/Y5neKO/SourcemapTools): Sourcemap leak exploit tool.
+- [Suo5forNodejs](https://github.com/Y5neKO/Suo5forNodejs): A Suo5 memshell for Node.js environments.
 
 **☢ Vuln IDs**
 - CVE: CVE-2024-39071, CVE-2024-39072
