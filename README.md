@@ -96,7 +96,29 @@ Unknown Security Company
 - [SSReportTools](https://github.com/Y5neKO/SSReportTools): A graphical security/penetration testing report generation tool developed based on JavaFX, an essential tool for security and penetration testing enthusiasts looking to slack off.
 - [SourcemapTools](https://github.com/Y5neKO/SourcemapTools): Sourcemap leak exploit tool.
 - [Suo5forNodejs](https://github.com/Y5neKO/Suo5forNodejs): A Suo5 memshell for Node.js environments.
+- [AMIYA](https://github.com/Y5neKO/AMIYA): Scanner.
+- [ArknightsPriestessGUI](https://github.com/Y5neKO/ArknightsPriestessGUI): AKP project companion GUI application.
+
+- [CryptoToolAPI](https://github.com/Y5neKO/CryptoToolAPI): CryptoTool API service.
+- [dbapp-apt-analyzer](https://github.com/Y5neKO/dbapp-apt-analyzer): APT analysis tool.
+- [DecryptDayDownloader](https://github.com/Y5neKO/DecryptDayDownloader): Bypass ad-blocker detection to download files from decrypt.day.
+- [dnslog-platform](https://github.com/Y5neKO/dnslog-platform): Self-hosted DNSLog platform.
+- [FastjsonScanModify](https://github.com/Y5neKO/FastjsonScanModify): Modified version of FastjsonScan.
+- [glm-cmd](https://github.com/Y5neKO/glm-cmd): Natural language to shell command tool powered by Zhipu AI.
+- [JsRpcEX](https://github.com/Y5neKO/JsRpcEX): Quick-start tool for JsRpc.
+- [MingJianAutoResolve](https://github.com/Y5neKO/MingJianAutoResolve): Auto-resolve tool for MingJian vulnerability scan reports.
+- [minio-bucket-enum-tools](https://github.com/Y5neKO/minio-bucket-enum-tools): MinIO bucket enumeration tool.
+- [pkgManager](https://github.com/Y5neKO/pkgManager): CLI tool for managing macOS .pkg installer packages.
+- [qianxin-vuln-tool](https://github.com/Y5neKO/qianxin-vuln-tool): Extract vulnerability intelligence from QiAnXin threat platform.
+- [RadiantKnightExploit](https://github.com/Y5neKO/RadiantKnightExploit): Comprehensive vulnerability exploitation tool (RKE).
+
+
+- [SSHConnectTools](https://github.com/Y5neKO/SSHConnectTools): SSH connection manager with custom configuration.
+
+- [web_director_viewer](https://github.com/Y5neKO/web_director_viewer): Directory listing vulnerability enumeration script.
+- [xxl-job-exec](https://github.com/Y5neKO/xxl-job-exec): Quick command execution via xxl-job executor.
+- [YSOCK](https://github.com/Y5neKO/YSOCK): Web-based tunnel proxy tool.
 
 **☢ Vuln IDs**
 - CVE: CVE-2024-39071, CVE-2024-39072
-- CNVD: CNVD-2024-29955, CNVD-2024-39609, CNVD-2024-39888, CNVD-2024-42668, CNVD-2024-43066, CNVD-2024-44216, CNVD-2024-45972
+- CNVD: CNVD-2024-29955, CNVD-2024-39609, CNVD-2024-39888, CNVD-2024-42668, CNVD-2024-43066, CNVD-2024-44216, CNVD-2024-45972, CNVD-2026-23984
